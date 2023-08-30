@@ -13,22 +13,22 @@ git clone https://github.com/barmalini18/hotel_reservation.git hotel_reservation
 ## How to run this app in IDE
 Open
 ```text
-src/main/java/com/udacity/hotel/HotelApplication.java
+HotelApplication.java
 ```
 file and run the `main()` method.
 
 ## How to run this app in terminal
 1. Navigate to the source root of the project
     ```bash
-    cd hotel_reservation/src/main/java
+    cd hotel_reservation
     ```
 2. Compile the project
     ```bash
-    javac com/udacity/hotel/HotelApplication.java
+    javac HotelApplication.java
     ```
 3. Run the app
     ```bash
-    java com.udacity.hotel.HotelApplication
+    java HotelApplication
     ```
 
 ## TODO
