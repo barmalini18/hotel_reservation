@@ -4,6 +4,15 @@
 This is an implementation of the first out of four projects in Udacity DevOps for Java Nanodegree.
 
 This app allows customers to find and book a hotel room based on room availability. 
+Following screenshots
+demonstrate the functionality implemented.
+
+Main menu:\
+![main menu](main.png)
+
+Admin menu:\
+![admin menu](admin.png)
+
 
 ## How to clone this repo in terminal
 ```bash
